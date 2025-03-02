@@ -9,8 +9,8 @@ var createHelloWorld = function() {
     }
 };
  const f = createHelloWorld();
-console.log(f()); // "Hello World"
-console.log(f({}, null, 42)); // "Hello World"
+console.log(f());
+console.log(f({}, null, 42)); 
 /**
  * const f = createHelloWorld();
  * f(); // "Hello World"
