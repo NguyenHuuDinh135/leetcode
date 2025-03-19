@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chanem794/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/chanem794/leetcode/tree/master/0217-contains-duplicate) |
 | [1603-running-sum-of-1d-array](https://github.com/chanem794/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/chanem794/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chanem794/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/chanem794/leetcode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/chanem794/leetcode/tree/master/0383-ransom-note) |
 ## Prefix Sum
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/chanem794/leetcode/tree/master/0383-ransom-note) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/chanem794/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
