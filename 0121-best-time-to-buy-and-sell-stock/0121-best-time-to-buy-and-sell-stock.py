@@ -8,9 +8,9 @@ class Solution(object):
         profit = 0
 
         for i in prices[1:]:
-            if price > i:
+            if price > i: # Cái này ng ta gọi là bắt đáy nè kk
                 price = i
             
-            profit = max(profit, i - price)
+            profit = max(profit, i - price) 
         
         return profit
