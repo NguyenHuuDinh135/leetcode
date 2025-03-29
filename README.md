@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chanem794/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/chanem794/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/chanem794/leetcode/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/chanem794/leetcode/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/chanem794/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/chanem794/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chanem794/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0792-binary-search](https://github.com/chanem794/leetcode/tree/master/0792-binary-search) |
 ## Recursion
 |  |
 | ------- |
