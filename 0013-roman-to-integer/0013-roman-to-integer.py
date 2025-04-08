@@ -14,9 +14,9 @@ class Solution(object):
             'M': 1000
         }
         result = 0
-        for c in range(len(s)):
-            if c + 1 < len(s) and roman[s[c]] < roman[s[c + 1]]:
-                result -= roman[s[c]]
+        for i in range(len(s)):
+            if i + 1 < len(s) and roman[s[i]] < roman[s[i + 1]]:
+                result -= roman[s[i]]
             else:
-                result += roman[s[c]]
+                result += roman[s[i]]
         return result
