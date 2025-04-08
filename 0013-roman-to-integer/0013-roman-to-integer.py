@@ -16,7 +16,7 @@ class Solution(object):
         result = 0
         for i in range(len(s)):
             if i + 1 < len(s) and roman[s[i]] < roman[s[i + 1]]:
-                result -= roman[s[i]]
+                result -= roman[s[i]] # IV V > I  -1
             else:
-                result += roman[s[i]]
+                result += roman[s[i]] # r 5 + 
         return result
