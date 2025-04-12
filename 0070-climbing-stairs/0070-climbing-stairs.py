@@ -3,8 +3,8 @@ class Solution(object):
         """
         :type n: int
         :rtype: int
-        """#Fibonaci? 1 2 3 5 8
-        if n <= 3:
+        """
+        if n <= 3:# fibonaci 1 1 2 3 5
             return n
         a = 3
         b =  2
