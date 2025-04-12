@@ -12,7 +12,7 @@ class Solution(object):
             else:
                 count[c] = 1
         for c in ransomNote:
-            if c not in count or count[c] == 0:
+            if c not in count or count[c] == 0: #count [c] == 0 có nghĩa Trường hợp hết chữ để ghép thêm
                 return False
             count[c] -= 1
         return True
