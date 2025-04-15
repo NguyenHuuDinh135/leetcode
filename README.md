@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chanem794/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/chanem794/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/chanem794/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/chanem794/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/chanem794/leetcode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chanem794/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -45,16 +46,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chanem794/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/chanem794/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chanem794/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/chanem794/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/chanem794/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/chanem794/leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/chanem794/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chanem794/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/chanem794/leetcode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chanem794/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/chanem794/leetcode/tree/master/0136-single-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chanem794/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
