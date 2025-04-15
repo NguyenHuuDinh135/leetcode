@@ -12,7 +12,7 @@ class Solution(object):
                 len_str -= 1 
                 if len_str == 0: 
                     return ""   
-                str = str[0:len_str]
+                str = str[0:len_str]    
         return str
         
         
