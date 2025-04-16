@@ -12,7 +12,6 @@ class Solution(object):
         while x > 0:
             list.append(x % 10)
             x = x // 10
-        list.reverse()
         if len(list) == 1:
             return True
         if len(list) == 2 and list[dau] != list[cuoi]:
