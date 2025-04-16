@@ -22,7 +22,6 @@ class Solution(object):
                 list2.append(i)
         if list1 is None:
             return []
-
         result = ListNode(0)
         current = result
         for i in list2:
