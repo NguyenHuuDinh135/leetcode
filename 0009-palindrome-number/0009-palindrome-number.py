@@ -16,7 +16,7 @@ class Solution(object):
             return True
         if len(list) == 2 and list[dau] != list[cuoi]:
             return False
-        for i in range(len(list) // 2):
+        for i in range(len(list)):
             if list[i] != list[-i-1]:
                 return False
         return True
