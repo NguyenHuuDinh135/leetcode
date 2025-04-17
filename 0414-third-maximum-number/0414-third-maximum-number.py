@@ -6,6 +6,10 @@ class Solution(object):
         """
         nums = list(set(nums))
         count = 0
+        if len(nums) == 3:
+            return min(nums)
+        if len(nums) < 3:
+            return max(nums)
         if len(nums) > 3:
         # Có nghĩa là gửi về số thứ 3 lớn nhất không trùng lớn nhất
             for i in range(0, 2):
@@ -14,9 +18,7 @@ class Solution(object):
                 if count == 2:
                     return max(nums)
             
-        if len(nums) < 3:
-            return max(nums)
-        if len(nums) == 3:
-            return min(nums)
+        
+        
             
         
