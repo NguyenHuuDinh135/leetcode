@@ -10,7 +10,7 @@ class Solution(object):
 
         while left <= right:
             mid = (left + right) // 2
-            #[1   , 3     , 5, 6]   target= 2 < 3
+            #[1   , 3     , 5, 6]   target= 2 < 3 => left = 0, right= 1 => left = 1
             if nums[mid] == target:
                 return mid
             elif nums[mid] > target:
