@@ -24,7 +24,7 @@ class Solution(object):
             current = current.next
         if list1 is not None:
             current.next = list1
-        if list2 is not None:
+        elif list2 is not None:
             current.next = list2
             
         return head.next
