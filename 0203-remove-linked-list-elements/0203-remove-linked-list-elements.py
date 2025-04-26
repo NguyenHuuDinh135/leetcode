@@ -10,23 +10,17 @@ class Solution(object):
         :type val: int
         :rtype: Optional[ListNode]
         """
-        list1 = []
-        list2 = []
-        while head is not None:
-            list1.append(head.val)
-            head = head.next
-        if list1 is None:
-            return []
-        for i in list1:
-            if i != val:
-                list2.append(i)
-        if list1 is None:
-            return []
         result = ListNode(0)
         current = result
-        for i in list2:
-            current.next = ListNode(i)
-            current = current.next
+        if head is None:
+            return None
+        while head is not None:
+            if head.val == val:
+                head = head.next
+            else:
+                current.next = head
+                current = current.next
+                head = head.next
+            current.next = None
         return result.next
-        
         
