@@ -13,7 +13,7 @@ class Solution(object):
         # return max(result, key = nums.count) O(n^2) ko tuyen tinh
         count = 0
         candidate = None
-
+        #Boyer-Moore Majority Vote Algorithm.
         for num in nums:
             if count == 0:
                 candidate = num
