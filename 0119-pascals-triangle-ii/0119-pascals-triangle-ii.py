@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: List[int]
         """
         res = [[1]]
-        for i in range(rowIndex - 1):
+        for i in range(rowIndex):
             temp = [0] + res[-1] + [0]
             row = []
             for j in range(len(res[-1]) + 1):
