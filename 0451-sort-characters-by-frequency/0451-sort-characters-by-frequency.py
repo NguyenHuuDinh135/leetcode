@@ -15,7 +15,7 @@ class Solution(object):
         s = ""
         while count:
             a = max(count, key=count.get)
-            s = s+ (a * count[a])
+            s = s + (a * count[a])
             del count[a]
         return s
         
