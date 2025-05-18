@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chanem794/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chanem794/leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/chanem794/leetcode/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/chanem794/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/chanem794/leetcode/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/chanem794/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/chanem794/leetcode/tree/master/1791-richest-customer-wealth) |
