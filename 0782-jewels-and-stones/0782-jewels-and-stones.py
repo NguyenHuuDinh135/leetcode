@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: int
         """
         count = {}
-        list1 = []
+        res = 0
         for j in jewels:
             if j in count:
                 count[j] += 1
@@ -14,6 +14,6 @@ class Solution(object):
                 count[j] = 1
         for s in stones:
             if s in count:
-                list1.append(s)
-        return len(list1)
+                res += 1
+        return res
                 
