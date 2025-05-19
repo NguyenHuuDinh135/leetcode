@@ -7,7 +7,6 @@ class Solution(object):
         count = {}
         for i in nums:
             if i in count:
-                count[i] += 1
+                return i
             else:
                 count[i] = 1
-        return max(count, key=count.get)
