@@ -12,6 +12,7 @@ class Solution(object):
             for j in range(len(arr2)):
                 if abs(arr1[i] - arr2[j]) <= d: 
                     check = False
+                    break
             if check:
                 count += 1
         return count
