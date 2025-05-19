@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/chanem794/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/chanem794/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chanem794/leetcode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/chanem794/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/chanem794/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/chanem794/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/chanem794/leetcode/tree/master/0792-binary-search) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chanem794/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chanem794/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/chanem794/leetcode/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/chanem794/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/chanem794/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chanem794/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/chanem794/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chanem794/leetcode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/chanem794/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/chanem794/leetcode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/chanem794/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chanem794/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/chanem794/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/chanem794/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chanem794/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chanem794/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chanem794/leetcode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/chanem794/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/chanem794/leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/chanem794/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/chanem794/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/chanem794/leetcode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chanem794/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/chanem794/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/chanem794/leetcode/tree/master/0792-binary-search) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/chanem794/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Recursion
