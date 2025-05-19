@@ -5,10 +5,15 @@ class Solution(object):
         :type n: int
         :rtype: List[int]
         """
-        temp = nums[n : len(nums)]
+        # temp = nums[n : len(nums)]
+        # res = []
+        # for i in range(0, n):
+        #     res.append(nums[i])
+        #     res.append(temp[i])
+        # return res
+
         res = []
-        for i in range(0, n):
-            res.append(nums[i])
-            res.append(temp[i])
+        for i, j in zip(nums[:n],nums[n:]):
+            res += [i,j]
         return res
 
