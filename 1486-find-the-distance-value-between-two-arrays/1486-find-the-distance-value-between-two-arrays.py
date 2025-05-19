@@ -7,10 +7,10 @@ class Solution(object):
         :rtype: int
         """
         count = 0
-        for i in range(len(arr1)):
+        for i in arr1:
             check = True
-            for j in range(len(arr2)):
-                if abs(arr1[i] - arr2[j]) <= d: 
+            for j in arr2:
+                if abs(i - j) <= d: 
                     check = False
                     break
             if check:
