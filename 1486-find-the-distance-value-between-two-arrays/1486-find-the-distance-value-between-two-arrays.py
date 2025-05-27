@@ -6,6 +6,7 @@ class Solution(object):
         :type d: int
         :rtype: int
         """
+        # Sort lại giống cái trên
         count = 0
         for i in arr1:
             check = True
