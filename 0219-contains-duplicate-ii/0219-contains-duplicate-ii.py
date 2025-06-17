@@ -7,7 +7,7 @@ class Solution(object):
         """
         seen = {}
         for i, val in enumerate(nums):
-            if val in seen and i - seen[val] <= k:
+            if val in seen and abs(i - seen[val]) <= k:
                 return True
             else:
                 seen[val] = i
