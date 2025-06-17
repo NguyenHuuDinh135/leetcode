@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chanem794/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/chanem794/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/chanem794/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/chanem794/leetcode/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chanem794/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/chanem794/leetcode/tree/master/0792-binary-search) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/chanem794/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/chanem794/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/chanem794/leetcode/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/chanem794/leetcode/tree/master/0495-teemo-attacking) |
 ## Bit Manipulation
 |  |
 | ------- |
