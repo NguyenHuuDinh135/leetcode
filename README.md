@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chanem794/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chanem794/leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/chanem794/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/chanem794/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chanem794/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/chanem794/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/chanem794/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/chanem794/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/chanem794/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chanem794/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chanem794/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/chanem794/leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chanem794/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/chanem794/leetcode/tree/master/0383-ransom-note) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chanem794/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/chanem794/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/chanem794/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/chanem794/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/chanem794/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/chanem794/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/chanem794/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/chanem794/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chanem794/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/chanem794/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/chanem794/leetcode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chanem794/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chanem794/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chanem794/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chanem794/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chanem794/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chanem794/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/chanem794/leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/chanem794/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -230,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/chanem794/leetcode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chanem794/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/chanem794/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chanem794/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/chanem794/leetcode/tree/master/0792-binary-search) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/chanem794/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
