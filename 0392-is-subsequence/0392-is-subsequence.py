@@ -5,13 +5,8 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        if len(s) > len(t):return False
-        if len(s) == 0:return True
-        subsequence=0
-        for i in range(0,len(t)):
-            if subsequence <= len(s) -1:
-                print(s[subsequence])
-                if s[subsequence]==t[i]:
-
-                    subsequence+=1
-        return  subsequence == len(s)
+        i=0
+        for char in t:
+            if i < len(s) and s[i] == char:
+                i +=1
+        return i == len(s)
