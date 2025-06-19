@@ -4,5 +4,4 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        return lower(s)
-        
+        return s.lower()
