@@ -14,3 +14,4 @@ class Solution(object):
             profit = max(profit, i - price) 
         
         return profit
+        
