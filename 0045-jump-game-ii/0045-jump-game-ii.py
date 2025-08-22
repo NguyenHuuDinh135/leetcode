@@ -14,7 +14,7 @@ class Solution(object):
         
         for i in range(n-1):
             farthest = max(farthest, i + nums[i])
-            if farthest >= len(nums) - 1:
+            if farthest >= n - 1:
                 steps += 1
                 break
             if i == end:
