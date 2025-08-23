@@ -10,6 +10,9 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
+        # Nếu danh sách rỗng hoặc chỉ có 1 node, không thể có vòng lặp
+        if not head or not head.next:
+            return False
         fast = head
         slow = head
         # Di chuyển slow (1 bước) và fast (2 bước) cho đến khi gặp nhau hoặc đến cuối
