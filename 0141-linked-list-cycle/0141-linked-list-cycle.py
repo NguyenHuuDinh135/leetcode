@@ -1,0 +1,26 @@
+# Definition for singly-linked list.
+# class ListNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution(object):
+    def hasCycle(self, head):
+        """
+        :type head: ListNode
+        :rtype: bool
+        """
+        # Nếu danh sách rỗng hoặc chỉ có 1 node, không thể có vòng lặp
+        if not head or not head.next:
+            return False
+        fast = head
+        slow = head
+        # Di chuyển slow (1 bước) và fast (2 bước) cho đến khi gặp nhau hoặc đến cuối
+        while fast and fast.next:
+            fast = fast.next.next
+            slow = slow.next
+            
+            if fast == slow:
+                return True
+    
+        return False
