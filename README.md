@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/chanem794/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/chanem794/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chanem794/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/chanem794/leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chanem794/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chanem794/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chanem794/leetcode/tree/master/0189-rotate-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/chanem794/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chanem794/leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/chanem794/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/chanem794/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/chanem794/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/chanem794/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/chanem794/leetcode/tree/master/0202-happy-number) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/chanem794/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/chanem794/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/chanem794/leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/chanem794/leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/chanem794/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chanem794/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/chanem794/leetcode/tree/master/0290-word-pattern) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/chanem794/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chanem794/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chanem794/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/chanem794/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/chanem794/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/chanem794/leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/chanem794/leetcode/tree/master/1013-fibonacci-number) |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chanem794/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/chanem794/leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/chanem794/leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chanem794/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/chanem794/leetcode/tree/master/0139-word-break) |
 ## Queue
 |  |
 | ------- |
