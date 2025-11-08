@@ -5,4 +5,11 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        return Counter(s) == Counter(t)
+        if len(set(s)) != len(set(t)):
+            return False
+
+        for c in set(s):
+            if s.count(c) != t.count(c): #Đếm số lần xuất hiện của char trong 2 chưỡi
+                return False
+        return True
+        
