@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chanem794/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/chanem794/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/chanem794/leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/chanem794/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chanem794/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/chanem794/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chanem794/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chanem794/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chanem794/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/chanem794/leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/chanem794/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chanem794/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/chanem794/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chanem794/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chanem794/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/chanem794/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/chanem794/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chanem794/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/chanem794/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chanem794/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chanem794/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/chanem794/leetcode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/chanem794/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chanem794/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/chanem794/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/chanem794/leetcode/tree/master/0414-third-maximum-number) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chanem794/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/chanem794/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/chanem794/leetcode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/chanem794/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -357,10 +362,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/chanem794/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/chanem794/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/chanem794/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/chanem794/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting Sort
 |  |
@@ -391,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/chanem794/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chanem794/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/chanem794/leetcode/tree/master/0455-assign-cookies) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chanem794/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
