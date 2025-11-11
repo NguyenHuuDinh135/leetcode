@@ -5,9 +5,15 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        num_to_index = {}
-        for i, num in enumerate(numbers):
-            key_in_dic = target - num #Ex: complement = 9 - 2,  complement = 9 - 7 = 2
-            if key_in_dic in num_to_index:
-                return [num_to_index[key_in_dic], i + 1]
-            num_to_index[num] = i + 1 # num_to_index = {2: 1}
+        l = 0
+        r = len(numbers) - 1
+
+        while l < r:
+            total = numbers[l] + numbers[r]
+
+            if total == target:
+                return [l + 1, r + 1]
+            elif total > target:
+                r -= 1
+            else:
+                l += 1
