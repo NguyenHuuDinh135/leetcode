@@ -4,9 +4,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        if len(nums) == 0:
-            return 0
-        
         num_set = set(nums)
         longest = 0
 
