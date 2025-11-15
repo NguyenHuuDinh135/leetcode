@@ -12,10 +12,10 @@ class Solution(object):
 
         for n in num_set:
             if n - 1 not in num_set:
+                cur = n
                 lenght = 1
-
-                while n + lenght in num_set:
+                while cur + 1 in num_set:
                     lenght +=1
-                
+                    cur +=1
                 longest = max(longest, lenght)
         return longest
