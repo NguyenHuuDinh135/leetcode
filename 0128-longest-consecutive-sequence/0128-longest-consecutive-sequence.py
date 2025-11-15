@@ -6,15 +6,16 @@ class Solution(object):
         """
         if len(nums) == 0:
             return 0
-        nums.sort()
-        count = 1
-        maxi = 0
-        for i in range(1, len(nums)):
-            if nums[i] != nums[i - 1]:
-                if nums[i] == nums[i - 1] + 1:
-                    count += 1
-                else:
-                    maxi = max(maxi, count)
-                    count = 1
+        
+        num_set = set(nums)
+        longest = 0
 
-        return max(maxi, count)
+        for n in num_set:
+            if n - 1 not in num_set:
+                lenght = 1
+
+                while n + lenght in num_set:
+                    lenght +=1
+                
+                longest = max(longest, lenght)
+        return longest
