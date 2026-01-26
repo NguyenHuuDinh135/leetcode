@@ -4,6 +4,9 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        s = ''.join(c.lower() for c in s if c.isalnum())
-
-        return s == s[::-1]
+        s = s.lower()
+        list = []
+        for c in s:
+            if c.isalnum():
+                list.append(c)
+        return list == list[::-1]
